@@ -1,0 +1,698 @@
+fileFormatVersion: 2
+guid: 09a96bb28cdc2f24dba2be9d2d6433a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: RobotBoyCrouch00
+  - first:
+      213: 21300002
+    second: RobotBoyCrouch01
+  - first:
+      213: 21300004
+    second: RobotBoyCrouch02
+  - first:
+      213: 21300006
+    second: RobotBoyCrouch03
+  - first:
+      213: 21300008
+    second: RobotBoyCrouch04
+  - first:
+      213: 21300010
+    second: RobotBoyCrouch05
+  - first:
+      213: 21300012
+    second: RobotBoyCrouch06
+  - first:
+      213: 21300014
+    second: RobotBoyCrouch07
+  - first:
+      213: 21300016
+    second: RobotBoyCrouch08
+  - first:
+      213: 21300018
+    second: RobotBoyCrouch09
+  - first:
+      213: 21300020
+    second: RobotBoyCrouch10
+  - first:
+      213: 21300022
+    second: RobotBoyCrouch11
+  - first:
+      213: 21300024
+    second: RobotBoyCrouch12
+  - first:
+      213: 21300026
+    second: RobotBoyCrouch13
+  - first:
+      213: 21300028
+    second: RobotBoyCrouch14
+  - first:
+      213: 21300030
+    second: RobotBoyCrouch15
+  - first:
+      213: 21300032
+    second: RobotBoyCrouch16
+  - first:
+      213: 21300034
+    second: RobotBoyCrouch17
+  - first:
+      213: 21300036
+    second: RobotBoyCrouch18
+  - first:
+      213: 21300038
+    second: RobotBoyCrouch19
+  - first:
+      213: 21300040
+    second: RobotBoyCrouch20
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: BlackBerry
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WP8
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RobotBoyCrouchSprite_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1783
+        width: 192
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e3ecdf1034084468bdbb43136a4987
+      internalID: -1939063248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouchSprite_1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1786
+        width: 199
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d162501437d3984e859a40a74fe81be
+      internalID: 1840982738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouchSprite_2
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1779
+        width: 187
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b670cd043d33341836b23dd34308a7
+      internalID: 2145087831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouchSprite_3
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1774
+        width: 168
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70300e77a125f049ac3862e33cc0936
+      internalID: -1596547989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouchSprite_4
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1783
+        width: 163
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b38158c19d28a4ca375c3062c5dcc7
+      internalID: -1681350494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouchSprite_5
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 1784
+        width: 174
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df059fd6ce1fa0d41861c84bd3b42854
+      internalID: -1174224307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouchSprite_6
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 1788
+        width: 179
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6187839ead2dd0d42bd5ed89fcf1055b
+      internalID: 859377985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouchSprite_7
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1510
+        width: 183
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7737881269f176046aaafcdc4bc24266
+      internalID: 873520615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouchSprite_8
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1506
+        width: 187
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0453b7394fcba6e46976a521c34b4f99
+      internalID: -352610250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouchSprite_9
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1506
+        width: 191
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea6204515ed7d2469c9bfb59d72785d
+      internalID: -1790687630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouchSprite_10
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1508
+        width: 194
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d68d974a791a6d4ea2b355d651177d7
+      internalID: 1132252123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouchSprite_11
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1510
+        width: 195
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f4e041d5f54a9438102dd07465af32
+      internalID: 1914997234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouchSprite_12
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1510
+        width: 187
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebbcc10e20980e429cccefb4e086bb8
+      internalID: 1876149818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouchSprite_13
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 1509
+        width: 167
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cdec7a111321248b0ce51a04475c7d
+      internalID: -464495894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouchSprite_14
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1230
+        width: 157
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d57fb81f79bad408f013f3e0706e1c
+      internalID: 532571499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouchSprite_15
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1232
+        width: 175
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b421fa3517081b489d970d557f3767f
+      internalID: -1270250052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouchSprite_16
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1233
+        width: 180
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e72091c9b0deb46bed2ca23b3c9bf3
+      internalID: -256777195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouchSprite_17
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1234
+        width: 183
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541bc9771e3aa6c4ebfb86ad08e22c04
+      internalID: 964269713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouchSprite_18
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1230
+        width: 191
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8cdabda23742c46a2d2ae0009cb2df
+      internalID: 52516327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouchSprite_19
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1232
+        width: 194
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a25a1401c4d7047909f019590a6044
+      internalID: -322564023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouchSprite_20
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 1235
+        width: 199
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fde9af2163cc154884252f3b36f883e
+      internalID: 815936261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 517af90878d24e04590db638277982d3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RobotBoyCrouchSprite_0: -1939063248
+      RobotBoyCrouchSprite_1: 1840982738
+      RobotBoyCrouchSprite_10: 1132252123
+      RobotBoyCrouchSprite_11: 1914997234
+      RobotBoyCrouchSprite_12: 1876149818
+      RobotBoyCrouchSprite_13: -464495894
+      RobotBoyCrouchSprite_14: 532571499
+      RobotBoyCrouchSprite_15: -1270250052
+      RobotBoyCrouchSprite_16: -256777195
+      RobotBoyCrouchSprite_17: 964269713
+      RobotBoyCrouchSprite_18: 52516327
+      RobotBoyCrouchSprite_19: -322564023
+      RobotBoyCrouchSprite_2: 2145087831
+      RobotBoyCrouchSprite_20: 815936261
+      RobotBoyCrouchSprite_21: -868322568
+      RobotBoyCrouchSprite_22: 1276817279
+      RobotBoyCrouchSprite_3: -1596547989
+      RobotBoyCrouchSprite_4: -1681350494
+      RobotBoyCrouchSprite_5: -1174224307
+      RobotBoyCrouchSprite_6: 859377985
+      RobotBoyCrouchSprite_7: 873520615
+      RobotBoyCrouchSprite_8: -352610250
+      RobotBoyCrouchSprite_9: -1790687630
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
